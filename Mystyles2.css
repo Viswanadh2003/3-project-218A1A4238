@@ -1,0 +1,35 @@
+nav {
+    background-color: #350;
+    color: whitesmoke;
+}
+nav ul {
+    list-style-type: none;
+    margin: 10;
+    padding: 0;
+}
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+nav ul li a {
+    color: wheat;
+    text-decoration: none;
+}
+nav ul li a:hover {
+    text-decoration: underline;
+}
+section {
+    padding: 20px;
+}
+footer {
+    background-color: #2856d3;
+    color: #fff;
+    text-align: center;
+    padding: 10px ;
+}
+h1{
+    color: rgb(224, 35, 22);
+    margin: 5;
+    padding: 10;
+}
